@@ -103,7 +103,7 @@ a{
     }
 }
 
-a:link {
+a {
   color: green;
   background-color: transparent;
   text-decoration: none;

@@ -62,7 +62,7 @@ a{
 }
 
 .section-2 a{
-    color: #0000FF;
+    color: red;
     display: block;
     padding: 5px;
     font-size: 1.2rem;
@@ -72,7 +72,7 @@ a{
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.3rem;
-    color: #0000FF;
+    color: red;
     cursor: pointer;
     transition: 0.2s;
 }
